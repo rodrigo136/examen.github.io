@@ -1,0 +1,41 @@
+*
+{
+	background-color:#1079F8;
+}
+h1
+{
+	color:red;
+	background-color:#03160D;
+	text-align:center;
+	font-family:algerian;
+}
+img
+{
+	height: 250px;
+	width: 450px;
+}
+p
+{
+	color: #03180E;
+	background-color: #F89210;
+	font-family: verdana;
+}
+ul
+{
+	list-style-type:katakana-iroha; 
+	background-color: #1AC6EC;
+	color:#200610;
+}
+li
+{
+	background-color: #10F83A;
+	font-family: arial;
+}
+h4
+{
+	background-color: #F8102F;
+}
+#cont1
+{
+	text-align: center;
+}
